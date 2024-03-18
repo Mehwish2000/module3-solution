@@ -1,0 +1,59 @@
+
+ .navbar{
+background-color: rgb(8, 0, 0);
+border: 3px;
+
+}
+
+
+h2{
+  text-align: center ;
+  color: rgb(2, 2, 16);
+ 
+
+}
+
+  #container {background-color: #e3b4198a;
+  margin: 20px;}
+  
+ h3{color: #010e03;
+text-align:center;
+}
+.lead{color:black;
+height: 1000px;
+overflow: visiblew;
+margin:10px;
+  }
+  
+  @media(min-width:992px)and (max-width:1199px){
+
+  }
+  
+    
+  
+
+  #bs-example-navbar-collapse-1{border-color: rgb(223, 234, 234);
+ 
+  }
+ 
+  #bs-example-navbar-collapse-1 p{color: rgb(246, 246, 246);
+    text-align: center;
+ height:5px;
+
+    }
+  
+   
+    @media (max-width: 767px) {
+    .lead{color:rgb(3, 0, 5);
+      
+    }
+ 
+    #container {background-color: rgb(47, 239, 230);
+
+  margin:100px;
+height:2000px;
+position: absolute;
+margin-top: 20px;
+
+
+}  }
